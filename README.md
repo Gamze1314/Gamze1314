@@ -1,20 +1,30 @@
-## Hey there! 👋  
-I’m **Gamze Kandara**, a Full-Stack Developer and a proud Flatiron School graduate, passionate about building solutions that make an impact!
+## Hi there 👋
+I’m **Gamze Kandara**, a Full Stack Developer and a passionate learner! 🚀
 
-- 🔭 I’m currently working on developing dynamic full-stack web applications and exploring cutting-edge technologies.
-- 🌱 I’m deep-diving into advanced React, Flask, and Cloud technologies to create scalable, high-performance applications.  🎉 I’m also excited to collaborate on open-source projects!
-- 👯 I’m always excited to collaborate on projects that integrate Python, React, and cloud solutions — let’s build something amazing together!
-- 🤔 I’m currently seeking guidance on DSA, and AWS and cloud deployment strategies for scaling applications in production.
-- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/gamzekandara) or shoot me an [email](mailto:gamze.kandara@example.com) — I’d love to connect!
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: When I’m not coding, I’m either traveling the world or brainstorming automation ideas (including for my coffee maker!).
+- 🔭 I’m currently working on [**SaleSight**](https://github.com/Gamze1314/SaleSight), a full-stack web application that helps businesses manage their profits, costs, and revenue through their product sales..
+- 🌱 I’m currently working on strengthening my problem-solving skills.
+- 👯 I’m looking to collaborate on **open-source projects** and **full-stack and frontend projects**.
+- 💬 Ask me about **React**, **Flask**, or anything related to **software engineering** or my personal projects.
+- 📫 You can email me [**here**](gamzekandara@gmail.com)
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: When I’m not coding, I’m either exploring the world traveling, or brainstorming automation ideas! (including my coffee maker!). 🌍
 
-##Skills
+### 🛠️ Skills:
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)](https://www.linkedin.com/in/gamzekandara/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.linkedin.com/in/gamzekandara/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)](https://www.linkedin.com/in/gamzekandara/)
+
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://www.linkedin.com/in/gamzekandara/)
+[![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)](https://www.linkedin.com/in/gamzekandara/)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)](https://www.linkedin.com/in/gamzekandara/)
 
 
+### Cloud & DevOps:
+- [Render](https://www.linkedin.com/in/gamzekandara/)
 
-# Let's Connect 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/gamzekandara/)
+### 📫 Let's Connect:
+- LinkedIn: [Gamze Kandara](https://www.linkedin.com/in/gamzekandara/)
 
 
 
