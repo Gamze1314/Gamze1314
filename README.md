@@ -1,7 +1,8 @@
 ## Hi there! I am **Gamze Kandara**.👋
 I'm a curious full-stack software engineer who loves to learn, and explore the world one adventure at a time! Whether it's coding, or traveling, I'm always diving into something new and exciting.
+I recently contributed to a financial management system that oversees more than $4 billion in assets for investment firms and loan servicing operations.
 
-- 🔭 I’m currently working on my sales and profit management tool [**SaleSight**](https://github.com/Gamze1314/SaleSight), and exploring new technologies.
+- 🔭 My recent projects: Sales and profit management tool [**SaleSight**](https://github.com/Gamze1314/SaleSight), OceanCargo: Ocean shipment booking tools with interactive Google Maps API Integration.
 - 💬 Ask me about : From React to backend frameworks, let's talk code!.
 - 📫 How to email me: [gmail](mailto:gamzekandara@gmail.com)
 
