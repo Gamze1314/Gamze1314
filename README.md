@@ -1,5 +1,5 @@
 ## Hi there! I am **Gamze Kandara**.👋
-I'm a curious full-stack software engineer who loves to learn, stay fit, and explore the world one adventure at a time! Whether it's coding, hitting the gym, or traveling, I'm always diving into something new and exciting.
+I'm a curious full-stack software engineer who loves to learn, and explore the world one adventure at a time! Whether it's coding, or traveling, I'm always diving into something new and exciting.
 
 - 🔭 I’m currently working on my sales and profit management tool [**SaleSight**](https://github.com/Gamze1314/SaleSight), and exploring new technologies.
 - 💬 Ask me about : From React to backend frameworks, let's talk code!.
